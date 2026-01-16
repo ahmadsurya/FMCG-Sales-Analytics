@@ -4,6 +4,7 @@
 This repository contains an **end-to-end FMCG Sales analytics project** designed to simulate how a **professional Data Analyst** delivers business-ready insights in a large, multi-brand FMCG organization.
 
 The project covers the full analytics lifecycle:
+
 **business context → data modeling → data quality → KPI governance → dashboard → business insights**.
 
 The focus is not on tool complexity, but on **analytics maturity, trust, and decision support**.
